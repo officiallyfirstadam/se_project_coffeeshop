@@ -84,8 +84,9 @@
 }
 
 .header__image {
-  margin-top: 124px;
-  margin-left: 750px;
+  margin-top: 60px;
+  margin-left: 380px;
+
   position: absolute;
 }
 .header__image_coffee {
