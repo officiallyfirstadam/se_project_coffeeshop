@@ -195,8 +195,6 @@
 
 .form__checkbox {
   border-radius: 2px;
-  background-color: #2f80ed;
-  background-image: url(../images/check.svg);
 }
 
 .form__label {
@@ -210,17 +208,15 @@
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
-  position: relative;
 }
 
 .form__checkbox_text {
-  position: absolute;
-  padding-left: 20px;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  padding-left: 12px;
 }
 
 .form__input {
