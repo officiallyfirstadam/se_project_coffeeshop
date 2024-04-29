@@ -8,19 +8,14 @@
   justify-content: space-between;
 }
 
-.triple__ten-logo {
-  width: 105px;
-  height: 39px;
-}
-
 .footer__copyright {
-  font-family: "inter";
+  font-family: inter, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
   color: white;
-  margin-top: 80px;
+  margin: 108px 0 0 0;
   padding: auto;
 }
 
@@ -40,10 +35,11 @@
 .footer__list {
   padding: 0;
   list-style: none;
+  margin: 0;
 }
 
 .footer__list-item {
-  margin-bottom: 16px;
+  margin: 0 0 16px 0;
 }
 
 .footer__social-link {
@@ -54,6 +50,7 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
+  transition: color 0.5s ease;
 }
 
 .footer__social-link:hover {
