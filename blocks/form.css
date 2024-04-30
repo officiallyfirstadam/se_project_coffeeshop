@@ -56,6 +56,9 @@
   color: #838383;
   margin-top: 8px;
   border-radius: 4px;
+  border-color: #838383;
+  border-width: 1px;
+  border-style: solid;
   padding-left: 10px;
 }
 .form__button {

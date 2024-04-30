@@ -25,7 +25,7 @@
   line-height: 30px;
   color: #ffffff;
   max-width: 438px;
-  margin-top: 0;
+  margin: 0;
 }
 .recipes__videos {
   display: flex;
@@ -43,5 +43,10 @@
   display: flex;
   justify-content: space-between;
   color: #ffffff;
-  margin: 0;
+  margin: 24px 0 0 0;
+}
+
+.recipes__iframe {
+  width: 560px;
+  height: 315px;
 }
