@@ -22,10 +22,11 @@
   max-width: 729px;
   font-size: 60px;
   line-height: 72px;
-  padding: 183px 0 80px 0;
+  padding: 183px 0 0;
   letter-spacing: -0.6px;
   font-weight: 500;
   color: #000000;
+  margin: 0;
 }
 
 .header__description {
