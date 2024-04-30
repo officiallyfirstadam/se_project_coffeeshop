@@ -5,9 +5,9 @@
 
 .footer__content {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   margin-left: auto;
-  margin-top: 60px;
+  margin-top: o;
   margin-right: auto;
 }
 
@@ -32,6 +32,8 @@
   display: flex;
   flex-direction: column;
   align-items: end;
+  margin-left: 100px;
+  margin-top: 0;
 }
 
 .footer__social-icon {
