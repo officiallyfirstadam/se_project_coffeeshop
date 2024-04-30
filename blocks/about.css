@@ -17,6 +17,7 @@
   max-width: 251px;
   position: relative;
   z-index: 0;
+  margin: 0;
 }
 
 .about__content {

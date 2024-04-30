@@ -1,7 +1,6 @@
 .nav {
   display: flex;
   justify-content: space-between;
-  padding: 30px 80px 0 30px;
 }
 
 .nav__links {
