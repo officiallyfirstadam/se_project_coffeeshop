@@ -14,3 +14,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 ## Plan on improving the project
 
 Future for the project includes updated design and advanced styling.
+I will be going back to implement JavaScripst as well as adding media queries and making the site responsive on all platforms.
